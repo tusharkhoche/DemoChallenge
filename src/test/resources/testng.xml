@@ -11,8 +11,11 @@
         </groups>
         <!-- List individual packages to execute below -->
         <packages>
-            <package name="com.sample.test.demo.tests.*"/>
+
         </packages>
+        <classes>
+            <class name="com.sample.test.demo.tests.TestCase01"></class>
+        </classes>
     </test>
 </suite>
 

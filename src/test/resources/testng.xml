@@ -7,7 +7,7 @@
 
         <!-- Enter group name to execute specific set of tests -->
         <groups>
-            <!--       -->
+            <!--                       -->
         </groups>
         <!-- List individual packages to execute below -->
         <packages>
